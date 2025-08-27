@@ -14,13 +14,10 @@ Uma calculadora simples feita em Angular, desenvolvida como exercício prático 
 
 
 
-
-🖥️ Como usar
+## 🖥️ Como usar
 
 Digite os números nos dois campos.
-
 Clique em “Somar”.
-
 O resultado aparecerá logo abaixo.<br>
 
 📂 <strong>Estrutura do projeto</strong> <br>
