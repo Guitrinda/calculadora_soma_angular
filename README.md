@@ -1,40 +1,23 @@
-🧮 Calculadora Angular
-
+<h1>🧮 Calculadora Angular</h1> <br>
 Uma calculadora simples feita em Angular, desenvolvida como exercício prático para aprendizado de conceitos básicos da framework. Permite somar dois números e exibe o resultado dinamicamente.
 
-⚡ Tecnologias usadas
 
-Angular (standalone components)
+<p>O objetivo da página foi aprender e aplicar funcionalidades básicas de HTML+CSS</p><br>
+<p>Um modelo de landing page para um restaurante fictício chamado "Restaurante do Bairro"</p>
+<p>Para visualizar a página,<a href='https://restaurante-do-bairro-html.netlify.app' target='_blank'> <strong>Clique aqui.</strong></a> 
 
-TypeScript
+## ⚡ Tecnologias utilizadas
 
-HTML / CSS
-
-Angular FormsModule (para ligação de inputs com ngModel)
-
-🚀 Como rodar o projeto localmente
-
-Clone o repositório:
-
-git clone https://github.com/<SEU_USUARIO>/<NOME_REPOSITORIO>.git
+- ``Angular (standalone components)``
+- ``TypeScript``
+- ``HTML / CSS``
+- ``Angular FormsModule (para ligação de inputs com ngModel)``
 
 
-Entre na pasta do projeto:
-
-cd calculadora-app
+![Status do projeto](https://img.shields.io/badge/Status-Finalizado-Red)
 
 
-Instale as dependências:
 
-npm install
-
-
-Rode o servidor de desenvolvimento:
-
-ng serve --open
-
-
-O navegador abrirá automaticamente em: http://localhost:4200
 
 🖥️ Como usar
 
@@ -55,6 +38,6 @@ src/
      ├─ app.component.html
      └─ app.component.scss
 
-✨ Contribuições
+✨ <strong>Contribuições</strong>
 
 Contribuições são bem-vindas! Se você quiser adicionar novas funcionalidades, como outras operações (subtração, multiplicação, divisão), fique à vontade para abrir um pull request.
