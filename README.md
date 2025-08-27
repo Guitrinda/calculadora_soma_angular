@@ -1,10 +1,6 @@
 <h1>🧮 Calculadora Angular</h1> <br>
 Uma calculadora simples feita em Angular, desenvolvida como exercício prático para aprendizado de conceitos básicos da framework. Permite somar dois números e exibe o resultado dinamicamente.
-
-
-<p>O objetivo da página foi aprender e aplicar funcionalidades básicas de HTML+CSS</p><br>
-<p>Um modelo de landing page para um restaurante fictício chamado "Restaurante do Bairro"</p>
-<p>Para visualizar a página,<a href='https://restaurante-do-bairro-html.netlify.app' target='_blank'> <strong>Clique aqui.</strong></a> 
+ 
 
 ## ⚡ Tecnologias utilizadas
 
@@ -25,19 +21,19 @@ Digite os números nos dois campos.
 
 Clique em “Somar”.
 
-O resultado aparecerá logo abaixo.
+O resultado aparecerá logo abaixo.<br>
 
-📂 Estrutura do projeto
-src/
- └─ app/
-     ├─ calculadora/          # Component da calculadora
-     │   ├─ calculadora.component.ts
-     │   ├─ calculadora.component.html
-     │   └─ calculadora.component.scss
-     ├─ app.component.ts
-     ├─ app.component.html
-     └─ app.component.scss
-
+📂 <strong>Estrutura do projeto</strong> <br>
+src/<br>
+ └─ app/<br>
+     ├─ calculadora/          # Component da calculadora<br>
+     │   ├─ calculadora.component.ts<br>
+     │   ├─ calculadora.component.html<br>
+     │   └─ calculadora.component.scss<br>
+     ├─ app.component.ts<br>
+     ├─ app.component.html<br>
+     └─ app.component.scss<br>
+<br>
 ✨ <strong>Contribuições</strong>
 
 Contribuições são bem-vindas! Se você quiser adicionar novas funcionalidades, como outras operações (subtração, multiplicação, divisão), fique à vontade para abrir um pull request.
